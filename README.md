@@ -6,7 +6,7 @@
 [![Tests](https://github.com/verticalsync/Suncord/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/verticalsync/Suncord/actions/workflows/test.yml)
 [![Discord](https://img.shields.io/discord/1207691698386501634.svg?color=768AD4&label=Discord&logo=discord&logoColor=white)](https://discord.gg/VasF3Ma4Ab)
 
-Suncord is a fork of [Vencord](https://github.com/Vendicated/Vencord).
+Suncord is a fork of [Vencord](https://github.com/Vendicated/Vencord), aimed to have more essentials third-plugins preinstalled. 
 
 You can join our [discord server](https://discord.gg/VasF3Ma4Ab) for commits, changes, chat or even support.
 
