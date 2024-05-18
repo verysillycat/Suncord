@@ -151,7 +151,7 @@ export const Devs = /* #__PURE__*/ Object.freeze({
     },
     kemo: {
         name: "kemo",
-        id: 299693897859465228n,
+        id: 715746190813298788n,
     },
     dzshn: {
         name: "dzshn",
@@ -478,15 +478,103 @@ export const Devs = /* #__PURE__*/ Object.freeze({
         name: "Wolfie",
         id: 347096063569559553n,
     },
+    nakoyasha: {
+        name: "nakoyasha",
+        id: 222069018507345921n,
+    },
+    Sqaaakoi: {
+        name: "Sqaaakoi",
+        id: 259558259491340288n,
+    },
+    Byron: {
+        name: "byeoon",
+        id: 1167275288036655133n,
+    },
+    puv: {
+        name: "puv",
+        id: 469441552251355137n,
+    },
+    arHSM: {
+        name: "arHSM",
+        id: 841509053422632990n,
+    },
+    iamme: {
+        name: "i am me",
+        id: 984392761929256980n,
+    },
+    MrDiamond: {
+        name: "mrdiamonddog",
+        id: 523338295644782592n,
+    },
+    Kaitlyn: {
+        name: "kaitlyn",
+        id: 306158896630988801n,
+    },
+    PolisanTheEasyNick: {
+        name: "Oleh Polisan",
+        id: 242305263313485825n,
+    },
+    Kodarru: {
+        name: "Kodarru",
+        id: 785227396218748949n,
+    },
+    Tolgchu: {
+        name: "✨Tolgchu✨",
+        id: 329671025312923648n,
+    },
+    Slightly: {
+        name: "Slightly",
+        id: 119536078452424704n,
+    },
+    DaBluLite: {
+        name: "DaBluLite",
+        id: 582170007505731594n,
+    },
+    SerStars: {
+        name: "SerStars",
+        id: 861631850681729045n,
+    },
+    GabiRP: {
+        name: "GabiRP",
+        id: 507955112027750401n,
+    },
+    nin0dev: {
+        name: "nin0dev",
+        id: 886685857560539176n,
+    },
+    ImBanana: {
+        name: "Im_Banana",
+        id: 635250116688871425n,
+    },
+    xocherry: {
+        name: "xocherry",
+        id: 221288171013406720n,
+    },
+    ScattrdBlade: {
+        name: "ScattrdBlade",
+        id: 678007540608532491n,
+    },
+    Board: {
+        name: "BoardTM",
+        id: 285475344817848320n,
+    },
+    UlyssesZhan: {
+        name: "UlyssesZhan",
+        id: 586808226058862623n,
+    },
+    nyx: {
+        name: "verticalsync",
+        id: 328165170536775680n
+    },
 } satisfies Record<string, Dev>);
 
 export const SuncordDevs = /* #__PURE__*/ Object.freeze({
     nyx: {
-        name: "dropped#0001",
+        name: "verticalsync",
         id: 328165170536775680n,
     },
     bhop: {
-        name: "femie",
+        name: "femeie",
         id: 442626774841556992n,
     },
     Drag: {
@@ -501,10 +589,18 @@ export const SuncordDevs = /* #__PURE__*/ Object.freeze({
         name: "Cortex",
         id: 825069530376044594n,
     },
-    Discord: {
-        name: "discord",
-        id: 643945264868098049n,
+    thororen: {
+        name: "thororen",
+        id: 848339671629299742n
     },
+    nexpid: {
+        name: "Nexpid",
+        id: 853550207039832084n
+    },
+    KrystalSkull: {
+        name: "krystalskullofficial",
+        id: 929208515883569182n
+    }
 } satisfies Record<string, Dev>);
 
 // iife so #__PURE__ works correctly

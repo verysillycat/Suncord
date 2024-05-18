@@ -16,6 +16,9 @@ Visit [1_INSTALLING.md](/docs/1_INSTALLING.md)
 
 ## Extra included plugins
 
+<details>
+<summary>Included plugins (44 additional plugins)</summary>
+
 -   Plugins by [D3SOX](https://github.com/D3SOX/vencord-userplugins)
 -   -   MemberListActivities
 -   -   VoiceChatUtilities
@@ -29,9 +32,7 @@ Visit [1_INSTALLING.md](/docs/1_INSTALLING.md)
 -   -   Anammox
 -   -   ColorMessage
 -   -   DeadMembers
--   -   ImageLink
 -   -   MessageLinkTooltip
--   -   ReplyTimestamp
 -   -   ModalFade
 -   -   Title
 
@@ -40,14 +41,25 @@ Visit [1_INSTALLING.md](/docs/1_INSTALLING.md)
 -   -   QuestionMarkReplacement (for smuki, i think he's acoustic)
 -   -   SmukiCommands (roblox tax calculation and profile commands for smuki)
 
+-   Plugins by [Tolgchu](https://github.com/Tolga1452/Vencord)
+-   -   BetterShopPreview
+-   -   GodMode
+-   -   RepeatMessage
+-   -   RunInConsole
+-   -   TalkInReverse
+
+-   Plugins by [happyendermangit](https://github.com/happyendermangit/)
+-   -   CopyEmojiAsFormattedString (added from vishnyanetchereshnya's [pull request](https://github.com/Vendicated/Vencord/pull/2266))
+-   -   QuestsCompleter (added from vishnyanetchereshnya's [pull request](https://github.com/Vendicated/Vencord/pull/2393))
+
 -   PurgeMessages (by [bhop](https://github.com/prettylittlelies))
 -   PlatformSpoofer (by [drag](https://github.com/dragdotpng))
 -   Timezones (by [mantikafasi](https://github.com/mantikafasi) & [ArjixWasTaken](https://github.com/ArjixWasTaken))
--   CustomScreenShare (by [KawaiianPizza](https://github.com/KawaiianPizza))
+-   CustomScreenShare (by [KawaiianPizza](https://github.com/KawaiianPizza)) (added from KawiianPizza's [pull request](https://github.com/Vendicated/Vencord/pull/2385))
 -   iRememberYou (by [zoodogood](https://github.com/zoodogood/vencord-plugins))
 -   EmojiDownloader (by [woosh](https://github.com/w8y) modified version of ServerDownload by [cheesesamwich](https://github.com/cheesesamwich/ServerDownload))
--   GlobalBadges (by [HypedDomi](https://github.com/domi-btnr/Vencord-Plugins))
--   MessageLoggerEnhanced (by [Syncxv](https://github.com/Syncxv/vc-message-logger-enhanced))
+-   GlobalBadges (by [HypedDomi](https://github.com/domi-btnr/Vencord-Plugins)) (using own forked api from [here](https://github.com/verticalsync/ClientModBadges-API/))
+-   MessageLoggerEnhanced (by [Syncxv](https://github.com/Syncxv/vc-message-logger-enhanced))/
 -   CommandPalette (by [Ethan](https://github.com/ethan-davies)) (added from Ethan's [pull request](https://github.com/Vendicated/Vencord/pull/2145) to vencord)
 -   AllCallTimers (by [Max-Herbold](https://github.com/Max-Herbold)) (added from Max's [pull request](https://github.com/Vendicated/Vencord/pull/2132) to vencord)
 -   SoundBoardLogger (by [ImpishMoxxie](https://github.com/ImpishMoxxie/SoundBoardLogger))
@@ -55,6 +67,14 @@ Visit [1_INSTALLING.md](/docs/1_INSTALLING.md)
 -   CopyEmojiAsFormattedString (by [happyendermangit](https://github.com/happyendermangit/) and [vishnyanetchereshnya](https://github.com/vishnyanetchereshnya)) (added from vishnyanetchereshnya's [pull request](https://github.com/Vendicated/Vencord/pull/2266))
 -   HolyNotes (by [Wolfie](https://github.com/WolfPlugs/VencordPlugins))
 -   CopyUserMention (by [Cortex](https://github.com/verysillycat))
+-   ModViewBypass (by [Sqaaakoi](https://github.com/Sqaaakoi)) (added from Sqaaakoi's [pull request](https://github.com/Vendicated/Vencord/pull/2220))
+-   HideChatButtons (by [programminglaboratorys](https://github.com/programminglaboratorys/Vencord/blob/fun/src/plugins/hideChatButtons))
+-   AmITyping (by [MrDiamondDog](https://github.com/MrDiamondDog)) (added from MrDiamondDog's [pull request](https://github.com/Vendicated/Vencord/pull/2360))
+-   UserPFP (by [Nexpid](https://github.com/Nexpid)) (added from Nexpid's [pull request](https://github.com/Vendicated/Vencord/pull/1956))
+-   ShowBadgeInChat (by [KrstlSkll69](https://github.com/KrstlSkll69) (added from KrstlSkll69's [pull request](https://github.com/Vendicated/Vencord/pull/2347)))
+-   DiscordColorways (by [DaBluLite](https://github.com/DaBluLite/DiscordColorways))
+
+</details>
 
 ## Disclaimer
 

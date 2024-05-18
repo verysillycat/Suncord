@@ -15,7 +15,7 @@ const rootTitle = { base: null as string | null };
 export const settings = definePluginSettings({
     title: {
         type: OptionType.STRING,
-        default: "Vencord",
+        default: "Suncord",
         description: "Window title prefix",
         onChange: setTitle,
     },
@@ -36,8 +36,8 @@ export default definePlugin({
         {
             find: "setPageTitleNotificationCount:function()",
             replacement: {
-                match: /\{base:\w+\.isPlatformEmbedded\?void 0:"Discord"\}/,
-                replace: "$self.rootTitle",
+                match: /(?<==)(?={base:)/,
+                replace: "$self.rootTitle??",
             },
         },
     ],
