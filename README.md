@@ -6,7 +6,7 @@
 
 Suncord is a fork of [Vencord](https://github.com/Vendicated/Vencord).
 
-You can join our [discord server](https://discord.gg/VasF3Ma4Ab) for commits, changes, chat or even support.<br></br> 
+You can join our [discord server](https://discord.gg/VasF3Ma4Ab) for commits, changes, chat or even support.<br><br></br> 
 
 ## Installing & Uninstalling
 
