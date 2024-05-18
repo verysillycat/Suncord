@@ -1,4 +1,4 @@
-# Suncord [<img src="./src/assets/icon.png" width="200" align="left" alt="Suncord">](https://github.com/verticalsync/Suncord)
+# Suncord [<img src="./src/assets/icon.png" width="225" align="left" alt="Suncord">](https://github.com/verticalsync/Suncord)
 
 [![Sunroof](https://img.shields.io/badge/Sunroof-orange?style=flat)](https://github.com/verticalsync/Sunroof)
 [![Tests](https://github.com/verticalsync/Suncord/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/verticalsync/Suncord/actions/workflows/test.yml)
