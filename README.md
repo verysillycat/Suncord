@@ -1,4 +1,4 @@
-# Suncord [<img src="./src/assets/icon.png" width="250" align="left" alt="Suncord">](https://github.com/verticalsync/Suncord)
+# Suncord [<img src="./src/assets/icon.png" width="200" align="left" alt="Suncord">](https://github.com/verticalsync/Suncord)
 
 [![Sunroof](https://img.shields.io/badge/Sunroof-orange?style=flat)](https://github.com/verticalsync/Sunroof)
 [![Tests](https://github.com/verticalsync/Suncord/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/verticalsync/Suncord/actions/workflows/test.yml)
@@ -7,6 +7,8 @@
 Suncord is a fork of [Vencord](https://github.com/Vendicated/Vencord).
 
 You can join our [discord server](https://discord.gg/VasF3Ma4Ab) for commits, changes, chat or even support.
+
+
 
 ## Installing & Uninstalling
 
